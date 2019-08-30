@@ -1,0 +1,335 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="#####  PORTUGAL #####" group-title="PORTUGAL TV ",##### PORTUGAL #####
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40386
+#EXTINF:-1 tvg-id="RTP 1 HD" tvg-name="RTP 1 HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTP1.png" group-title="PORTUGAL TV ",RTP 1 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40221
+#EXTINF:-1 tvg-id="RTP 1 FHD" tvg-name="RTP 1 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/RTP.png" group-title="PORTUGAL TV ",RTP 1 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56207
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTP2.png" group-title="PORTUGAL TV ",RTP 2
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40355
+#EXTINF:-1 tvg-id="RTP 2 FHD" tvg-name="RTP 2 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/RTP.png" group-title="PORTUGAL TV ",RTP 2 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56205
+#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTP3.png" group-title="PORTUGAL TV ",RTP 3
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40354
+#EXTINF:-1 tvg-id="RTP ACORES" tvg-name="RTP ACORES" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTPACORES.png" group-title="PORTUGAL TV ",RTP ACORES
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40353
+#EXTINF:-1 tvg-id="RTP AFRICA" tvg-name="RTP AFRICA" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTPAFFRICA.png" group-title="PORTUGAL TV ",RTP AFRICA
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40352
+#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP MADEIRA" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTPMADEIRA.png" group-title="PORTUGAL TV ",RTP MADEIRA
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40351
+#EXTINF:-1 tvg-id="RTP MEMORIA" tvg-name="RTP MEMORIA" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTPMADEIRA.png" group-title="PORTUGAL TV ",RTP MEMORIA
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40350
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SIC.png" group-title="PORTUGAL TV ",SIC
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40360
+#EXTINF:-1 tvg-id="SIC HD" tvg-name="SIC HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SIC.png" group-title="PORTUGAL TV ",SIC HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40218
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVI.png" group-title="PORTUGAL TV ",TVI
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40267
+#EXTINF:-1 tvg-id="TVI FHD" tvg-name="TVI FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/TVI.png" group-title="PORTUGAL TV ",TVI FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56145
+#EXTINF:-1 tvg-name="##### NOTICIAS #####" group-title="PORTUGAL TV ",##### NOTICIAS #####
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40293
+#EXTINF:-1 tvg-id="TVI 24" tvg-name="TVI 24" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVI24.png" group-title="PORTUGAL TV ",TVI 24
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40266
+#EXTINF:-1 tvg-id="SIC NOTÍCIAS HD" tvg-name="SIC NOTÍCIAS HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICNOTICIAS.png" group-title="PORTUGAL TV ",SIC NOTÍCIAS HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40216
+#EXTINF:-1 tvg-id="SIC NOTICIAS FHD" tvg-name="SIC NOTICIAS FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SIC.png" group-title="PORTUGAL TV ",SIC NOTICIAS FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56190
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/CMTV.png" group-title="PORTUGAL TV ",CMTV
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56108
+#EXTINF:-1 tvg-id="CMTV FHD" tvg-name="CMTV FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/CMTV.png" group-title="PORTUGAL TV ",CMTV FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56107
+#EXTINF:-1 tvg-id="A BOLA TV" tvg-name="A BOLA TV" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ABOLATV.png" group-title="PORTUGAL TV ",A BOLA TV
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40330
+#EXTINF:-1 tvg-name="##### DESPORTO #####" group-title="PORTUGAL TV ",##### DESPORTO #####
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40331
+#EXTINF:-1 tvg-id="SPORT TV +" tvg-name="SPORT TV +" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV +
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56186
+#EXTINF:-1 tvg-id="SPORT TV + FHD" tvg-name="SPORT TV + FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV + FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56185
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 1
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56184
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 1 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56182
+#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="SPORT TV 1 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 1 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56183
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 2
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56180
+#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 2 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56178
+#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="SPORT TV 2 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 2 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56179
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 3
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56176
+#EXTINF:-1 tvg-id="SPORT TV 3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 3 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56174
+#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="SPORT TV 3 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 3 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56175
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 4
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56173
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 4 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56171
+#EXTINF:-1 tvg-id="SPORT TV 4 FHD" tvg-name="SPORT TV 4 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 4 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56172
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 5
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56169
+#EXTINF:-1 tvg-id="SPORT TV 5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 5 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56167
+#EXTINF:-1 tvg-id="SPORT TV 5 FHD" tvg-name="SPORT TV 5 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 5 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56168
+#EXTINF:-1 tvg-id="SPORT TV 4K UHD" tvg-name="SPORT TV 4K UHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV 4K UHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56170
+#EXTINF:-1 tvg-id="SPORT TV NBA" tvg-name="SPORT TV NBA" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" group-title="PORTUGAL TV ",SPORT TV NBA
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40198
+#EXTINF:-1 tvg-id="SPORT TV NBA FHD" tvg-name="SPORT TV NBA FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/NBA.png" group-title="PORTUGAL TV ",SPORT TV NBA FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56049
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1 HD" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ELEVEN SPORTS 1 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56096
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1 FHD" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ELEVEN SPORTS 1 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56097
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 HD" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ELEVEN SPORTS 2 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56093
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 FHD" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ELEVEN SPORTS 2 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56094
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 HD" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ELEVEN SPORTS 3 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40177
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 FHD" tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ELEVEN SPORTS 3 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56091
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 HD" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ELEVEN SPORTS 4 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40174
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 FHD" tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ELEVEN SPORTS 4 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56090
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ELEVEN SPORTS 5 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40171
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 FHD" tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ELEVEN SPORTS 5 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56089
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 HD" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ELEVEN SPORTS 6 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40168
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 FHD" tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ELEVEN SPORTS 6 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56088
+#EXTINF:-1 tvg-id="PORTO CANAL HD" tvg-name="PORTO CANAL HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/PORTOCANAL.png" group-title="PORTUGAL TV ",PORTO CANAL HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40222
+#EXTINF:-1 tvg-id="PORTO CANAL FHD" tvg-name="PORTO CANAL FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/PORTOCANAL.png" group-title="PORTUGAL TV ",PORTO CANAL FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56040
+#EXTINF:-1 tvg-id="SPORTING TV FHD" tvg-name="SPORTING TV FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SPORTINGTV.png" group-title="PORTUGAL TV ",SPORTING TV FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56165
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTV HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/BTVHD.png" group-title="PORTUGAL TV ",BTV HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40312
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTV FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/BTV.png" group-title="PORTUGAL TV ",BTV FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56118
+#EXTINF:-1 tvg-id="BTV 1 HD" tvg-name="BTV 1 HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/BTV1.png" group-title="PORTUGAL TV ",BTV 1 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40258
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD" tvg-name="EUROSPORT 1 HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/EUROSPORT1.png" group-title="PORTUGAL TV ",EUROSPORT 1 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40326
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-logo="http://212.8.253.112/logo/PORTUGAL/EUROSPORT2.png" group-title="PORTUGAL TV ",EUROSPORT 2
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40327
+#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="CANAL 11 HD" group-title="PORTUGAL TV ",CANAL 11 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/63931
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="KOMBAT SPORT" tvg-logo="http://212.8.253.112/logo/PORTUGAL/KOMBATSPORT.png" group-title="PORTUGAL TV ",KOMBAT SPORT
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40329
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://212.8.253.112/logo/PORTUGAL/PFC.png" group-title="PORTUGAL TV ",PFC
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40275
+#EXTINF:-1 tvg-id="TRACE SPORTS STARS HD" tvg-name="TRACE SPORTS STARS HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TRACESPORTSSTARS.png" group-title="PORTUGAL TV ",TRACE SPORTS STARS HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40161
+#EXTINF:-1 tvg-id="FUEL TV FHD" tvg-name="FUEL TV FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/FUELTV.png" group-title="PORTUGAL TV ",FUEL TV FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56069
+#EXTINF:-1 tvg-name="##### ENTRETENIMENTO #####" group-title="PORTUGAL TV ",##### ENTRETENIMENTO #####
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40264
+#EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-name="TVI FICÇÃO" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVI.png" group-title="PORTUGAL TV ",TVI FICÇÃO
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40265
+#EXTINF:-1 tvg-id="CANAL Q" tvg-name="CANAL Q" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CANALQ.png" group-title="PORTUGAL TV ",CANAL Q
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40345
+#EXTINF:-1 tvg-id="SIC MULHER HD" tvg-name="SIC MULHER HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICMULHER.png" group-title="PORTUGAL TV ",SIC MULHER HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40217
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC RADICAL HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICRADICAL.png" group-title="PORTUGAL TV ",SIC RADICAL HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40215
+#EXTINF:-1 tvg-id="SIC CARAS HD" tvg-name="SIC CARAS HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICCARAS.png" group-title="PORTUGAL TV ",SIC CARAS HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40219
+#EXTINF:-1 tvg-id="BLAZE HD" tvg-name="BLAZE HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/BLAZE.png" group-title="PORTUGAL TV ",BLAZE HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40259
+#EXTINF:-1 tvg-id="MOTORVISION HD" tvg-name="MOTORVISION HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MOTORVISION.png" group-title="PORTUGAL TV ",MOTORVISION HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40230
+#EXTINF:-1 tvg-id="LUXE TV HD" tvg-name="LUXE TV HD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/LUXETV.png" group-title="PORTUGAL TV ",LUXE TV HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56061
+#EXTINF:-1 tvg-id="CAÇA E PESCA HD" tvg-name="CAÇA E PESCA HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CASAEPESCA.png" group-title="PORTUGAL TV ",CAÇA E PESCA HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40257
+#EXTINF:-1 tvg-id="CAÇAVISION HD" tvg-name="CAÇAVISION HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CACAVISION.png" group-title="PORTUGAL TV ",CAÇAVISION HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40346
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT HD" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/E%21ENTERTAINMENT.png" group-title="PORTUGAL TV ",E! ENTERTAINMENT HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40252
+#EXTINF:-1 tvg-id="EUROCHANNEL" tvg-name="EUROCHANNEL" tvg-logo="http://212.8.253.112/logo/PORTUGAL/EUROCHANNEL.png" group-title="PORTUGAL TV ",EUROCHANNEL
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40339
+#EXTINF:-1 tvg-id="FINE LIVING NETWORK FHD" tvg-name="FINE LIVING NETWORK FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/FIENLIVING.png" group-title="PORTUGAL TV ",FINE LIVING NETWORK FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56082
+#EXTINF:-1 tvg-id="FTV HD" tvg-name="FTV HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FTV.png" group-title="PORTUGAL TV ",FTV HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40243
+#EXTINF:-1 tvg-id="MY CUISINE" tvg-name="MY CUISINE" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MYCUISINE.png" group-title="PORTUGAL TV ",MY CUISINE
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40279
+#EXTINF:-1 tvg-id="CANAL 180" tvg-name="CANAL 180" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CANAL180.png" group-title="PORTUGAL TV ",CANAL 180
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40256
+#EXTINF:-1 tvg-id="DOGTV FHD" tvg-name="DOGTV FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/DOGTVFHD.png" group-title="PORTUGAL TV ",DOGTV FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56099
+#EXTINF:-1 tvg-id="ARTV" tvg-name="ARTV" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ARTV.png" group-title="PORTUGAL TV ",ARTV
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40292
+#EXTINF:-1 tvg-id="MYZEN TV" tvg-name="MYZEN TV" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MYCUISINE.png" group-title="PORTUGAL TV ",MYZEN TV
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40229
+#EXTINF:-1 tvg-id="OUTDOOR CHANNEL FHD" tvg-name="OUTDOOR CHANNEL FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/OUTDOORCHANNEL.png" group-title="PORTUGAL TV ",OUTDOOR CHANNEL FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56044
+#EXTINF:-1 tvg-id="S+" tvg-name="S+" tvg-logo="http://212.8.253.112/logo/PORTUGAL/S.png" group-title="PORTUGAL TV ",S+
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40220
+#EXTINF:-1 tvg-id="FOOD NETWORK FHD" tvg-name="FOOD NETWORK FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/FOODNETWORK.png" group-title="PORTUGAL TV ",FOOD NETWORK FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56081
+#EXTINF:-1 tvg-id="24 KITCHEN HD" tvg-name="24 KITCHEN HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/24KITCHENHD.png" group-title="PORTUGAL TV ",24 KITCHEN HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40308
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/TLC.png" group-title="PORTUGAL TV ",TLC
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56162
+#EXTINF:-1 tvg-name="#####  SERIES  #####" group-title="PORTUGAL TV ",#####  SERIES  #####
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40342
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/AMC.png" group-title="PORTUGAL TV ",AMC HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40263
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/AMC.png" group-title="PORTUGAL TV ",AMC FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56130
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/AXNHD.png" group-title="PORTUGAL TV ",AXN HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40262
+#EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/AXN.png" group-title="PORTUGAL TV ",AXN FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56126
+#EXTINF:-1 tvg-id="AXN BLACK HD" tvg-name="AXN BLACK HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/AXNBLACK.png" group-title="PORTUGAL TV ",AXN BLACK HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40382
+#EXTINF:-1 tvg-id="AXN BLACK FHD" tvg-name="AXN BLACK FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/AXN.png" group-title="PORTUGAL TV ",AXN BLACK FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56127
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/AXNWHITE.png" group-title="PORTUGAL TV ",AXN WHITE HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40380
+#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN WHITE FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/AXN.png" group-title="PORTUGAL TV ",AXN WHITE FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56124
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXHD.png" group-title="PORTUGAL TV ",FOX HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40247
+#EXTINF:-1 tvg-id="FOX FHD" tvg-name="FOX FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/FOXFHD.png" group-title="PORTUGAL TV ",FOX FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56076
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX COMEDY HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXCOMEDY.png" group-title="PORTUGAL TV ",FOX COMEDY HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40249
+#EXTINF:-1 tvg-id="FOX COMEDY FHD" tvg-name="FOX COMEDY FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/FOXCOMEDY.png" group-title="PORTUGAL TV ",FOX COMEDY FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56079
+#EXTINF:-1 tvg-id="FOX CRIME HD" tvg-name="FOX CRIME HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXCRIMEHD.png" group-title="PORTUGAL TV ",FOX CRIME HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40248
+#EXTINF:-1 tvg-name="FOX CRIME FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/FOXCRIME.png" group-title="PORTUGAL TV ",FOX CRIME FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56077
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="FOX MOVIES" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXMOVIESHD.png" group-title="PORTUGAL TV ",FOX MOVIES
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40375
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX MOVIES HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXMOVIES.png" group-title="PORTUGAL TV ",FOX MOVIES HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40245
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="FOX LIFE HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXHD.png" group-title="PORTUGAL TV ",FOX LIFE HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40246
+#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="FOX LIFE FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/FOXLIFE.png" group-title="PORTUGAL TV ",FOX LIFE FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56074
+#EXTINF:-1 tvg-id="TV SERIES HD" tvg-name="TV SERIES HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVSERIES.png" group-title="PORTUGAL TV ",TV SERIES HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40188
+#EXTINF:-1 tvg-id="TV SERIES FHD" tvg-name="TV SERIES FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/TVSERIES.png" group-title="PORTUGAL TV ",TV SERIES FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56136
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SYFY.png" group-title="PORTUGAL TV ",SYFY
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56164
+#EXTINF:-1 tvg-id="SYFY FHD" tvg-name="SYFY FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/SYFY.png" group-title="PORTUGAL TV ",SYFY FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56163
+#EXTINF:-1 tvg-name="##### FILMES #####" group-title="PORTUGAL TV ",##### FILMES #####
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40385
+#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="NOS STUDIOS" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/NOSSTUDIOS.png" group-title="PORTUGAL TV ",NOS STUDIOS
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56036
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="HOLLYWOOD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/HOLLYWOODHD.png" group-title="PORTUGAL TV ",HOLLYWOOD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40373
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/HOLLYWOODHD.png" group-title="PORTUGAL TV ",HOLLYWOOD HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40372
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="CINEMUNDO" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CINEMUNDO.png" group-title="PORTUGAL TV ",CINEMUNDO
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40370
+#EXTINF:-1 tvg-id="CINEMUNDO HD" tvg-name="CINEMUNDO HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CINEMUNDO.png" group-title="PORTUGAL TV ",CINEMUNDO HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40379
+#EXTINF:-1 tvg-id="TVCINE 1 HD" tvg-name="TVCINE 1 HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVCINE1.png" group-title="PORTUGAL TV ",TVCINE 1 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40192
+#EXTINF:-1 tvg-id="TVCINE 1 FHD" tvg-name="TVCINE 1 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/TVCINE.png" group-title="PORTUGAL TV ",TVCINE 1 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56154
+#EXTINF:-1 tvg-id="TVCINE 2 HD" tvg-name="TVCINE 2 HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVCINE2.png" group-title="PORTUGAL TV ",TVCINE 2 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40191
+#EXTINF:-1 tvg-id="TVCINE 2 FHD" tvg-name="TVCINE 2 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/TVCINE.png" group-title="PORTUGAL TV ",TVCINE 2 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56152
+#EXTINF:-1 tvg-id="TVCINE 3 HD" tvg-name="TVCINE 3 HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVCINE3.png" group-title="PORTUGAL TV ",TVCINE 3 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40190
+#EXTINF:-1 tvg-id="TVCINE 3 FHD" tvg-name="TVCINE 3 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/TVCINE.png" group-title="PORTUGAL TV ",TVCINE 3 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56150
+#EXTINF:-1 tvg-id="TVCINE 4 HD" tvg-name="TVCINE 4 HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVCINE4.png" group-title="PORTUGAL TV ",TVCINE 4 HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40189
+#EXTINF:-1 tvg-id="TVCINE 4 FHD" tvg-name="TVCINE 4 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/TVCINE.png" group-title="PORTUGAL TV ",TVCINE 4 FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56148
+#EXTINF:-1 tvg-name="##### PT - CULTURA #####" group-title="PORTUGAL TV ",##### PT - CULTURA #####
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40310
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://212.8.253.112/logo/PORTUGAL/DISCOVERYHD.png" group-title="PORTUGAL TV ",DISCOVERY CHANNEL
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40307
+#EXTINF:-1 tvg-id="DISCOVERY HD SHOWCASE" tvg-name="DISCOVERY HD SHOWCASE" tvg-logo="http://212.8.253.112/logo/PORTUGAL/DISCOVERYHD.png" group-title="PORTUGAL TV ",DISCOVERY HD SHOWCASE
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40302
+#EXTINF:-1 tvg-id="ID INVESTIGATION DISCOVERY FHD" tvg-name="ID INVESTIGATION DISCOVERY FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/IDINVESTIGATIONDISCOVERYFHD.png" group-title="PORTUGAL TV ",ID INVESTIGATION DISCOVERY FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56065
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC CHANNEL FHD" tvg-name="NATIONAL GEOGRAPHIC CHANNEL FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/NATGEO.png" group-title="PORTUGAL TV ",NATIONAL GEOGRAPHIC CHANNEL FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56053
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD FHD" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/NATGEOWILDHD.png" group-title="PORTUGAL TV ",NATIONAL GEOGRAPHIC WILD FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56051
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="http://212.8.253.112/logo/PORTUGAL/HISTORIAHD.png" group-title="PORTUGAL TV ",HISTORIA
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40306
+#EXTINF:-1 tvg-id="ODISSEIA" tvg-name="ODISSEIA" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ODISSEIA.png" group-title="PORTUGAL TV ",ODISSEIA
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40276
+#EXTINF:-1 tvg-id="ODISSEIA HD" tvg-name="ODISSEIA HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ODISSEIA.png" group-title="PORTUGAL TV ",ODISSEIA HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40226
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL FHD" tvg-name="TRAVEL CHANNEL FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/TRAVELCHANNEL.png" group-title="PORTUGAL TV ",TRAVEL CHANNEL FHD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56159
+#EXTINF:-1 tvg-id="CRIME + INVESTIGATION SD" tvg-name="CRIME + INVESTIGATION SD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CRIMEINVESTIGATION.png" group-title="PORTUGAL TV ",CRIME + INVESTIGATION SD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40301
+#EXTINF:-1 tvg-id="KBS WORLD" tvg-name="KBS WORLD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/KBSWORLD.png" group-title="PORTUGAL TV ",KBS WORLD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40234
+#EXTINF:-1 tvg-name="##### MUSICA #####" group-title="PORTUGAL TV ",##### MUSICA #####
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40300
+#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-name="MTV PORTUGAL" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MTVPORTUGAL.png" group-title="PORTUGAL TV ",MTV PORTUGAL
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40297
+#EXTINF:-1 tvg-id="MTV PORTUGAL HD" tvg-name="MTV PORTUGAL HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MTVPORTUGAL.png" group-title="PORTUGAL TV ",MTV PORTUGAL HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40296
+#EXTINF:-1 tvg-id="AFRO MUSIC" tvg-name="AFRO MUSIC" tvg-logo="http://212.8.253.112/logo/PORTUGAL/AFROMUSIC.png" group-title="PORTUGAL TV ",AFRO MUSIC
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40299
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM POP" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MCMPOP.png" group-title="PORTUGAL TV ",MCM POP
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40298
+#EXTINF:-1 tvg-id="MCM TOP" tvg-name="MCM TOP" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/MCMTOP.png" group-title="PORTUGAL TV ",MCM TOP
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56059
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/VH1.png" group-title="PORTUGAL TV ",VH1
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56135
+#EXTINF:-1 tvg-id="VH1 CLASSIC" tvg-name="VH1 CLASSIC" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/VH1CLASSIC.png" group-title="PORTUGAL TV ",VH1 CLASSIC
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56038
+#EXTINF:-1 tvg-id="TRACE URBAN" tvg-name="TRACE URBAN" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TRACEURBAN.png" group-title="PORTUGAL TV ",TRACE URBAN
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40363
+#EXTINF:-1 tvg-id="TRACE URBAN HD" tvg-name="TRACE URBAN HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TRACEURBAN.png" group-title="PORTUGAL TV ",TRACE URBAN HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40194
+#EXTINF:-1 tvg-id="NRJ HITS" tvg-name="NRJ HITS" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/NRJHITS.png" group-title="PORTUGAL TV ",NRJ HITS
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56046
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="MEZZO" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MEZZO.png" group-title="PORTUGAL TV ",MEZZO
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40280
+#EXTINF:-1 tvg-id="MEZZO LIVE HD" tvg-name="MEZZO LIVE HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MEZZO.png" group-title="PORTUGAL TV ",MEZZO LIVE HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40231
+#EXTINF:-1 tvg-id="ICONCERTS HD" tvg-name="ICONCERTS HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ELEVENSPORTS.png" group-title="PORTUGAL TV ",ICONCERTS HD
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40237
+#EXTINF:-1 tvg-name="##### INFANTIL #####" group-title="PORTUGAL TV ",##### INFANTIL #####
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40338
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICK.png" group-title="PORTUGAL TV ",SIC K
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40362
+#EXTINF:-1 tvg-id="BIGGS" tvg-name="BIGGS" tvg-logo="http://212.8.253.112/logo/PORTUGAL/BIGGS.png" group-title="PORTUGAL TV ",BIGGS
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40349
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="http://212.8.253.112/logo/PORTUGAL/BABYTV.png" group-title="PORTUGAL TV ",BABY TV
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40337
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CANALPANDA.png" group-title="PORTUGAL TV ",CANAL PANDA
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40336
+#EXTINF:-1 tvg-id="PANDA BIGGS" tvg-name="PANDA BIGGS" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/PANDABIGGS.png" group-title="PORTUGAL TV ",PANDA BIGGS
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56043
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CARTOONNETWORK.png" group-title="PORTUGAL TV ",CARTOON NETWORK
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40335
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="http://212.8.253.112/logo/PORTUGAL/DISNEYCHANNEL.png" group-title="PORTUGAL TV ",DISNEY CHANNEL
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40334
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/DISNEYJUNIOR.png" group-title="PORTUGAL TV ",DISNEY JUNIOR
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56100
+#EXTINF:-1 tvg-id="JIM JAM" tvg-name="JIM JAM" tvg-logo="http://212.8.253.112/logo/PORTUGAL/JIMJAM.png" group-title="PORTUGAL TV ",JIM JAM
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/40332
+#EXTINF:-1 tvg-id="NICK JR." tvg-name="NICK JR." tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/NICKJR.png" group-title="PORTUGAL TV ",NICK JR.
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56048
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="http://212.8.253.112/logo/EUROPE/PORTUGALVIP/NICKELODEON.png" group-title="PORTUGAL TV ",NICKELODEON
+http://tvservice.pro:80/zie@outlook.pt/2gM0xGj6xMX3KHN/56047
